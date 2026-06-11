@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](https://www.link.springer.com/book/10.1007/979-8-8688-3010-5) by Gerald Versluis (Apress, 2026).
+This repository accompanies [*Building MCP Servers with C#*](https://www.link.springer.com/book/10.1007/979-8-8688-3010-5) by Gerald Versluis (Apress, 2026).
 
 [comment]: #cover
 ![Cover image](979-8-8688-3009-9.jpg)
